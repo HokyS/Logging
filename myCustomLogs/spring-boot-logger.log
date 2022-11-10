@@ -1,0 +1,14 @@
+2022-11-10 09:27:15,169 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting LoggingApplication using Java 18.0.2.1 on DESKTOP-IS61GC6 with PID 12900 (C:\Users\mario\Desktop\Exercise Develhope\Logging\target\classes started by mario in C:\Users\mario\Desktop\Exercise Develhope\Logging)
+2022-11-10 09:27:15,172 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2022-11-10 09:27:15,217 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-10 09:27:15,218 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-10 09:27:16,087 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-11-10 09:27:16,096 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2022-11-10 09:27:16,097 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-11-10 09:27:16,097 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-10 09:27:16,155 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-11-10 09:27:16,156 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 938 ms
+2022-11-10 09:27:16,448 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-11-10 09:27:16,457 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2022-11-10 09:27:16,476 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-11-10 09:27:16,485 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started LoggingApplication in 1.676 seconds (JVM running for 2.199)
